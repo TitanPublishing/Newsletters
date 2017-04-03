@@ -1,2 +1,2 @@
-# cs-in-algebra
-Code.orgs CS in Algebra
+# Newsletters
+## Templeton Secondary School
